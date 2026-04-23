@@ -262,6 +262,7 @@ main {
 .about__role {
   margin-top: 1.2em;
   line-height: 1;
+  text-align: center;
 }
 
 .about__desc {
