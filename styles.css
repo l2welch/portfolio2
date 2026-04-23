@@ -103,7 +103,7 @@ button {
 ===================*/
 
 .link {
-  color: #4B6447;
+  color: var(--clr-primary);
   padding: 0 0 0.3em 0;
   position: relative;
 }
