@@ -252,18 +252,18 @@ main {
 
 .about {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   margin-top: 3em;
-}
 }
 
 .about__container {
   display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 3em; /* space between image and text */
+  gap: 3rem;
   max-width: 900px;
-  margin: 0 auto;
+  width: 100%;
 }
 
 .about__img {
