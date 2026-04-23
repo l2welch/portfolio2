@@ -280,9 +280,10 @@ main {
 }
 
 .about__role {
-  margin-top: 1.2em;
-  line-height: 1;
+  margin-top: 1em;
+  line-height: .75;
   text-align: center;
+  text-size: 70%;
 }
 
 .about__desc {
